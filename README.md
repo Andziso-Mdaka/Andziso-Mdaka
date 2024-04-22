@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andziso-Mdaka
+- 👋 Hi, I’m @Andziso-Mdaka Java,C#,Python,Html & CSS enjoyer
 - 👀 I’m interested in code code and coding
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on a game development project
